@@ -1,3 +1,3 @@
 #!/bin/bash 
 #  apache config .
-chown apache:apache -R /var/www/html
+chown ubuntu:ubuntu -R /var/www/html

@@ -1,4 +1,5 @@
 #!/bin/bash
 # stoping apache
 rm -rf /var/www/html/*
-service httpd stop
+#service httpd stop
+systemctl stop nginx
